@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **harshlf4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CWHBjSkk5u5bVNAJowpOJ8i2zURO2aey/view?usp=sharing](https://drive.google.com/file/d/1CWHBjSkk5u5bVNAJowpOJ8i2zURO2aey/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CWHBjSkk5u5bVNAJowpOJ8i2zURO2aey/view?usp=sharing)
 
 - ⚡ Fun fact **A small dose of anime keeps me alive**
 
