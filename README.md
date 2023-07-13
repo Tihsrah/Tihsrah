@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **React, PyTorch**
 
-- 👯 I’m looking to collaborate on [Sebastian React Project](https://github.com/Tihsrah/Sebastian.git)
+- 👯 I’m looking to collaborate on [Hinglish Text Normalizer Project](https://github.com/Tihsrah/Hinglish-Text-Normalizer)
 
 - 📫 How to reach me **harshlf4@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CWHBjSkk5u5bVNAJowpOJ8i2zURO2aey/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://rxresu.me/harshlf4/harshit)
 
 - ⚡ Fun fact **A small dose of anime keeps me alive**
 
