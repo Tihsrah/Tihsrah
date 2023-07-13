@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
-<img align="centre" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSnAtfWx-dO_L9iaD1WP5gPOut-FvOw76VWiNE-8QnZQNOYDAwCA12JpW5QB9In0-bcq1Q56ENVDvLPoi7jiagnJfVhAc4x944G0dFprIWgGgFFzXsOLNYY2zaBsJdZ0-bwazGvK7n2ochIz2DKs5OkHtA0FASI81xVRH6RLnAyN7z7-JcXrFBMswC/s320/ezgif-5-55ea29d673.gif">
+<img align="center" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSnAtfWx-dO_L9iaD1WP5gPOut-FvOw76VWiNE-8QnZQNOYDAwCA12JpW5QB9In0-bcq1Q56ENVDvLPoi7jiagnJfVhAc4x944G0dFprIWgGgFFzXsOLNYY2zaBsJdZ0-bwazGvK7n2ochIz2DKs5OkHtA0FASI81xVRH6RLnAyN7z7-JcXrFBMswC/s320/ezgif-5-55ea29d673.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tihsrah&label=Profile%20views&color=0e75b6&style=flat" alt="tihsrah" /> </p>
 
